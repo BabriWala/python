@@ -1,0 +1,5 @@
+- Consistency
+- 3-5 Hours
+- Python.org -> Stable File Download
+- Pycharm -> download -> community edition
+- beecrowd
