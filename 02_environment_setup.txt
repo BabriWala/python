@@ -1,0 +1,37 @@
+-Communication Between a Programmer & Computer
+
+-Who is closer to programmer that called high level language
+-Who is in Middle that's call Mid Level Langugage
+-Who is closer to computer language that call Low level language
+
+- Python 
+- High Level language
+- Supports OOP
+- Dynamic Type = Take jei value dibo se buje nibe j eita ki value jmn string, number
+- Functional Pattern
+- Dynamic Memory Allocation = se buje j tar modde ki ki value ase
+
+-Python Field
+-AI, Hacking, Software
+
+
+-Python Install
+-Add python.exe check for global setup
+-Check Na dile -> environment variable -> environment variables -> double click on path -> and add new 2 path and paste it
+
+-python -V for check python
+
+-IDE = Integrated Development environment
+-Syntax Highlight
+-Text Auto Completion
+-Importing Library
+-Build, Compile, Run
+
+
+-Pycharm install -> next next
+
+-vs code -> install 1.5gb -> python install
+
+
+-Pycharm Open - Folder -> Ok
+-> right click -> run option
