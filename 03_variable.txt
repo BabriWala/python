@@ -1,0 +1,71 @@
+-New Project -> Right Click -> File Name -> Automatic File Create
+
+- "String", Number, Integrated
+
+-Rules: Start with letter or underscore and not start with Number. 
+-A variable only contains alpha-numeric characters
+-Variable are case-sensitive
+-Variable cann't take reserved characters
+
+num1 = 10
+num2 = 10
+num3 = 10
+
+Both are same
+
+num1 = num2 = num3 = 10
+
+num1 = 10
+num2 = 20
+num3 = 30
+
+num1, num2, num3 = 10, 20, 30
+
+Pattern-Follow: camelCase, PascalCase, snake_case
+
+Good Code: Revealing intent
+
+Object Identity
+print(num1) -> right click and run
+
+process finished execution mane er pore ar amr kisu nai execute korar jonno
+
+print(id(num1)) -> id diye amra bujte pari je eita kon memory te allocate korese
+
+num1 = 20
+num3 = 10
+num2 = 30
+print(id(num1), id(num2), id(num3)) // Here num1 and num2 has same allocate memory by value because there value are same thats this one value connected by two varibales
+
+
+Input and Output
+name = input()
+print(name)
+
+// it will take input in console and output it
+
+Statement_Indentation_And_Comment
+single line statement
+
+name = value;
+
+Multi Line Statement
+
+num = 1+2+3+4+backwardslash ei slash ta na dile error hobe and inactive hoye jabe
+      4+5+6
+
+Indentation
+left align tike suur korte hobe kono space dewa jabe
+
+hash comment
+
+''''''
+Multiple Comment
+''''''
+
+'''
+Single Comment
+'''
+
+help(''keywords'')
+eita likhlei sob reserved keyword diye dibe
