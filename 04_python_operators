@@ -1,0 +1,30 @@
+Operand (jar dara kora hobe)
+Operator (+, -, *)
+
+Arithmetic Operator: Addition, Subtraction, Multiplication, Division, remainder%, exponent (**), Floor Division //
+
+Comparison Operator: Outcome True or False
+==, !=, <=, <, >=, >
+
+Assignment Operator
+=, +=, -=, *=, **=, //=,
+
+Logical Operator
+and, or, not
+
+membership Operator
+in, not in
+
+identity Operator
+is (reference), is not
+
+Operator Prescedence
+BEDMAS
+Bracket
+exponent
+Division
+Multiplication
+Addision
+Subtraction
+
+
