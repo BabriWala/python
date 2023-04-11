@@ -1,0 +1,28 @@
+""/'' = string
+language = "Python"
+
+print(type(language))
+
+value Access
+lanugage[0]
+lanugage[-1]
+lanugage[2:4]
+lanugage[:2]
+
+"''"
+'""'
+'\"\"'
+
+print("Python", end="\n")
+
+.upper()
+.lower()
+.capitalize()
+.title()
+len(language)
+.count("a")
+.replace("a", "-")
+.split(" ")
+
+concate = langage + language
+"-".join((language1, language2)) // join aktai value nei tai first bracket dewa hoyese
